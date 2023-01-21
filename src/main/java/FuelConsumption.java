@@ -58,8 +58,5 @@ public class FuelConsumption {
 
     }
 
-    private void createUIComponents() {
-        // TODO: place custom component creation code here
-    }
     private static final DecimalFormat df = new DecimalFormat("0.00");
 }
